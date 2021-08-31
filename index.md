@@ -1,13 +1,20 @@
 # Archelder.github.io
-This is the page of Archelder Kilo, the Mighty.
+Thank you for visiting the page of Archelder Kilo, the Mighty.  
 
-## Constructing...
+## Contact me?
+You can always reach me for any reason via e-mails.
 
-Due to a lack of time, this page is still unfinished.  
+- For academic reasons: [Kilo_FENG@chd.edu.cn]  
+- For business reasons: [Branch_Committee@Outlook.com]  
+- For other reasons: [Archelder@Outlook.com]
 
-It is advisable to add this page ([Archelder.github.io]()) into your *Favorites*, so that you can easily find out if here is anything new later.  
+## More...
 
-Thanks!  
-  
-  
+Due to a lack of time, this page is still constrcting.  
+
+It is advisable to add this page ([Archelder.github.io]) into your *Favorites*, so that you can easily find out if here is anything new later.  
+
+Drop by anytime!  
+
+
 <center> 2021 © Archelder </center>  
